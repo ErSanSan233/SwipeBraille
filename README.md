@@ -1,6 +1,9 @@
 # SwipeBraille - 盲文滑动输入法
 
+[![IIIA-4](https://img.shields.io/badge/IIIA-4-9370DB)](https://github.com/ErSanSan233/IIIA)
+
 ## 项目介绍
+
 SwipeBraille是一款专为视觉障碍用户设计的盲文滑动输入法应用。通过自定义键盘，用户可以使用盲文编码规则，通过点击或滑动方式输入文字。应用支持标准盲文编码，并提供了直观的界面和流畅的输入体验。
 
 ## 功能特点
